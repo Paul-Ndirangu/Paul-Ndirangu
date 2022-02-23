@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Core
-          user: mrdvince
+          user: Paul-mwaura
           config_timezone: Africa/Nairobi
           committer_message: "chore: update metrics"
           
