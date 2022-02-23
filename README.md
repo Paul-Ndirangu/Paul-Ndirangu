@@ -13,7 +13,7 @@
      <a href="https://mrdvince.me/">
       <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/v3nvince/">
+    <a href="https://www.linkedin.com/in/paul-ndirangu/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
