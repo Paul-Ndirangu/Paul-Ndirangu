@@ -2,3 +2,4 @@
 <br>
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Paul-mwaura/repos?time_range=one_year&loc_metric=changed&theme=dark)](https://githubtrends.io)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+In 2021, I made 287 contributions and modified 1,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/Paul-mwaura
