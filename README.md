@@ -7,8 +7,8 @@ Trends
 <!--[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Paul-mwaura/repos?time_range=one_year&loc_metric=changed&theme=dark)](https://githubtrends.io)-->
 ## 📈 Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Georgeygigz&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Georgeygigz&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Paul-mwaura&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-mwaura&theme=tokyonight" />
 </p>
 
 
