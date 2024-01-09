@@ -24,7 +24,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring Large Language Models.
 
-- :zap: In my free time, I solve problems on Kaggle and Zindi.
+- :zap: In my free time, I try out new stuff.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paul_ndirangu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-ndirangu/)
 
