@@ -28,6 +28,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paul_ndirangu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-ndirangu/)
 
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=python,docker,mysql,javascript,fastapi,django,pytorch&theme=light)](https://skillicons.dev)
+
 
 ### Trends
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -42,6 +45,3 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
   <a href="https://github.com/Paul-Ndirangu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Ndirangu&theme=github_dark&layout=compact&hide_border=true" /></a>
 </p>
-
-#### Top Repositories
-
