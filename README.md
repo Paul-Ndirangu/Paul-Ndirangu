@@ -29,7 +29,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paul_ndirangu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-ndirangu/)
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=python,docker,mysql,javascript,fastapi,django,pytorch&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,docker,mysql,javascript,fastapi,django,pytorch,tensorflow&theme=light)](https://skillicons.dev)
 
 
 ### Trends
