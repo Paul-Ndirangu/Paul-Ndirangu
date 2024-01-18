@@ -55,12 +55,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Ndirangu)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul-Ndirangu&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Paul-Ndirangu)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Paul-Ndirangu)  
+  
 
 
