@@ -36,6 +36,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=ai,python,docker,javascript,fastapi,django,pytorch,opencv,sklearn,sqlite,github,flask,css,git,html&theme=light)](https://skillicons.dev)
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Paul-Ndirangu)
 
 ### Trends
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -45,6 +46,13 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ## 📈 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Ndirangu&layout=compact&theme=vision-friendly-dark)](https://github.com/Paul-Ndirangu/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Ndirangu)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul-Ndirangu&show_icons=true&count_private=true)  
+
+
 
 
 
