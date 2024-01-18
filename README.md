@@ -44,7 +44,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Paul-Ndirangu/github-readme-stats)-->
 
 ## 📈 Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Paul-Ndirangu&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Ndirangu&layout=compact&theme=vision-friendly-dark)](https://github.com/Paul-Ndirangu/github-readme-stats)
 
 ### Hi there 👋, my name is Paul
