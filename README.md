@@ -41,29 +41,8 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul-Ndirangu&show_icons=true&count_private=true)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Paul-Ndirangu)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ### Trends
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
-<!--[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Paul-Ndirangu/repos?time_range=one_year&loc_metric=changed&theme=dark)](https://githubtrends.io)-->
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Paul-Ndirangu/github-readme-stats)-->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Ndirangu&layout=compact&theme=vision-friendly-dark)](https://github.com/Paul-Ndirangu/github-readme-stats)
-
-
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Ndirangu)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul-Ndirangu&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Paul-Ndirangu)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Paul-Ndirangu)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Paul-Ndirangu)](https://github.com/ryo-ma/github-profile-trophy)
 
 
