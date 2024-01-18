@@ -47,13 +47,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Paul-Ndirangu&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Ndirangu&layout=compact&theme=vision-friendly-dark)](https://github.com/Paul-Ndirangu/github-readme-stats)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Paul-Ndirangu&show_icons=true&theme=tokyonight" />
-  <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Ndirangu&theme=tokyonight" /> -->
-
-  <!-- <a href="https://github.com/Paul-Ndirangu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Ndirangu&theme=github_dark&layout=compact&hide_border=true" /></a> -->
-</p>
-
 ### Hi there 👋, my name is Paul
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
