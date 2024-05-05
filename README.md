@@ -34,7 +34,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 ### Languages and Tools
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paul-ndirangu)](https://github.com/paul-ndirangu/github-readme-stats)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=paul-ndirangu&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/paul-ndirangu)
 <!--[![My Skills](https://skillicons.dev/icons?i=ai,python,docker,javascript,fastapi,django,pytorch,opencv,sklearn,sqlite,github,flask,css,git,html&theme=light)](https://skillicons.dev)-->
 
 ## 📈 Stats
