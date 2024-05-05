@@ -34,7 +34,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 ### Languages and Tools
-<a href="https://github.com/paul-ndirangu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-ndirangu&theme=github_dark&layout=compact&hide_border=true" /></a>
+| <a href="https://github.com/paul-ndirangu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=paul-ndirangu&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/paul-ndirangu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-ndirangu&theme=github_dark&layout=compact&hide_border=true" /></a> |
 <!--[![My Skills](https://skillicons.dev/icons?i=ai,python,docker,javascript,fastapi,django,pytorch,opencv,sklearn,sqlite,github,flask,css,git,html&theme=light)](https://skillicons.dev)-->
 
 ## 📈 Stats
