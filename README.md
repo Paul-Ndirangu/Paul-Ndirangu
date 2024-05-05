@@ -22,11 +22,11 @@
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
 
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+- :telescope: I’m working as a Software Engineer and a Data Scientist.
 
 - :seedling: Exploring Large Language Models.
 
-- :zap: In my free time, I try out new stuff.
+<!-- - :zap: In my free time, I try out new stuff.-->
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paul_ndirangu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-ndirangu/)
 
@@ -34,7 +34,8 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=ai,python,docker,javascript,fastapi,django,pytorch,opencv,sklearn,sqlite,github,flask,css,git,html&theme=light)](https://skillicons.dev)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paul-ndirangu)](https://github.com/paul-ndirangu/github-readme-stats)
+<!--[![My Skills](https://skillicons.dev/icons?i=ai,python,docker,javascript,fastapi,django,pytorch,opencv,sklearn,sqlite,github,flask,css,git,html&theme=light)](https://skillicons.dev)-->
 
 ## 📈 Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Paul-Ndirangu)<br />
